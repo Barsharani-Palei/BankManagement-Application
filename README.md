@@ -1,33 +1,21 @@
-🏦 Bank Management Desktop Application
+ ## 🏦 Bank Management System – Java Desktop Application
 
-📋 Overview
-This project is a Bank Management Desktop Application developed using Core Java, Swing, AWT, JDBC, and MySQL. The application is designed to automate and manage essential banking operations through a secure and user-friendly graphical interface.
-It simulates real-world banking workflows such as account creation and transaction handling while demonstrating strong understanding of Java OOP concepts and database connectivity.
+## 📌 Project Overview
+The Bank Management System is a desktop-based Java application designed to simulate real-world banking operations. The application uses Swing and AWT for building an interactive graphical user interface, Core Java for implementing business logic, JDBC for database connectivity, and MySQL for persistent data storage. It allows users to create accounts, perform transactions, and retrieve account information efficiently while ensuring data consistency and security.
 
-🧪 Functionalities
-Account Creation
-User Login & Authentication
-Deposit Money
-Withdraw Money
-Balance Enquiry
-View Account Details
-Database-driven transaction processing
+## 🚀 Features
+- User Login & Authentication
+- Create New Bank Account
+- Deposit Amount
+- Withdraw Amount
+- Balance Enquiry
+- View Account Details
+- Secure data handling using JDBC
+- Interactive and user-friendly GUI
 
-📂 Modules Covered
-🔐 Login Module
-🆕 Account Creation Module
-💰 Deposit Module
-💸 Withdrawal Module
-📊 Balance Enquiry Module
-📁 Account Details Module
-
-🛠️ Tools & Technologies Used
-Programming Language: Core Java
-GUI Framework: Java Swing, AWT
-Database Connectivity: JDBC
-Database: MySQL
-IDE: Eclipse
-Version Control: GitHub
-
-🎯 Objective
-To design and develop a Java-based desktop banking application that efficiently manages customer accounts and transactions while ensuring data accuracy, secure database operations, and an intuitive graphical user interface.
+## 🛠 Technologies Used
+- Programming Language: Core Java  
+- GUI: Java Swing, AWT  
+- Database: MySQL  
+- Database Connectivity: JDBC  
+- IDE: Eclipse
