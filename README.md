@@ -20,5 +20,5 @@ The Bank Management System is a desktop-based Java application designed to simul
 - Database Connectivity: JDBC  
 - IDE: Eclipse
 
-##🎯 Objective
+## 🎯 Objective
 To design and develop a Java-based desktop banking application that efficiently manages customer accounts and transactions while ensuring data accuracy, secure database operations, and an intuitive graphical user interface.
